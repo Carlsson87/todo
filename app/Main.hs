@@ -17,6 +17,7 @@ helpInfo =
        , ("check", "Mark an item as completed")
        , ("purge", "Remove all completed items")
        , ("clear", "Remove all items")
+       , ("help", "You're looking at it")
        ]
 
 -- Types
