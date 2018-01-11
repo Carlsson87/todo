@@ -2,10 +2,6 @@
 
 This is pretty much what happens after "Hello World". One builds a todo-app.
 
-## Full disclosure
-
-This project was built using [Haskell Stack](https://docs.haskellstack.org/en/stable/README/) because I read somewhere that it was the recommended approach.
-
 # Usage
 
 You need to have [Haskell Stack](https://docs.haskellstack.org/en/stable/README/) installed.
