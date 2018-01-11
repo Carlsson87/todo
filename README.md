@@ -10,7 +10,6 @@ stack build
 ```
 
 This will build the project. To run the application:
-(Currently the app expects the file `~/.todo` to exist, so make sure it exists)
 
 ```
 stack exec todo-exe help
@@ -28,7 +27,3 @@ help	You're looking at it
 
 
 So there. I made something.
-
-
-## Todo
-- Put data in a data-file.
